@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://devprodigio.github.io/studio-vibe-barbearia/sitemap.xml
